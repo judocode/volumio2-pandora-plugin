@@ -1,0 +1,23 @@
+{
+  "name": "volumio2-pandora-plugin",
+  "version": "1.0.0",
+  "description": "Pandora plugin for Volumio2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrenton/volumio2-pandora-plugin.git"
+  },
+  "keywords": [
+    "volumio",
+    "pandora"
+  ],
+  "author": "Justus Renton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrenton/volumio2-pandora-plugin/issues"
+  },
+  "homepage": "https://github.com/jrenton/volumio2-pandora-plugin#readme"
+}
